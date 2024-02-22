@@ -1,4 +1,4 @@
-#include "CmdHelper.h"
+#include "ui/CmdHelper.h"
 
 #include <QApplication>
 
